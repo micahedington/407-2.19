@@ -1,0 +1,107 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #1928ff;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 24px;
+  width: 301px;
+  height: 71px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 756px;
+  top: 43px;
+  width: 307px;
+  height: 34px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 893px;
+  top: 44px;
+  width: 307px;
+  height: 69px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1006px;
+  top: 44px;
+  width: 307px;
+  height: 23px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 48px;
+  top: 254px;
+  width: 1183px;
+  height: 73px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 362px;
+  width: 1079px;
+  height: 107px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 550px;
+  top: 486px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 579px;
+  top: 486px;
+  width: 121px;
+  height: 29px;
+}

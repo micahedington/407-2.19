@@ -1,0 +1,187 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #1928ff;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 24px;
+  width: 301px;
+  height: 71px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 756px;
+  top: 43px;
+  width: 307px;
+  height: 34px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 893px;
+  top: 44px;
+  width: 307px;
+  height: 69px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1006px;
+  top: 44px;
+  width: 307px;
+  height: 23px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 113px;
+  width: 1183px;
+  height: 77px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 612px);
+  top: 190px;
+  width: 1079px;
+  height: 118px;
+}
+.semester-details-spring-2026 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 332px;
+  width: 393px;
+  height: 60px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 410px;
+  width: 365px;
+  height: 45px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 473px;
+  width: 825px;
+  height: 33px;
+}
+.contact-page {
+  background: #1928ff;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 1320px;
+  top: 0px;
+  overflow: hidden;
+}
+.bmgt-407-information-systems-projects2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 192px;
+  width: 1183px;
+  height: 77px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 612px);
+  top: 285px;
+  width: 1079px;
+  height: 118px;
+}
+.semester-details-spring-20262 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 416px;
+  width: 393px;
+  height: 60px;
+}
+.professor-paul-t-shapiro2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 476px;
+  width: 365px;
+  height: 45px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 534px;
+  width: 825px;
+  height: 33px;
+}
